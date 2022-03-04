@@ -1,2 +1,6 @@
 personal quotes- strenght through struggle 
+<<<<<<< HEAD
 i like blue 
+=======
+i like blue
+>>>>>>> personal_quotes
