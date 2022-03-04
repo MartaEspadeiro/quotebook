@@ -1,11 +1,3 @@
 personal quotes- strenght through struggle 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 i like green 
-=======
-i like blue
->>>>>>> personal_quotes
-=======
-i like blue
-i like blue twice teste 
->>>>>>> personal_quotes
